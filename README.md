@@ -4,12 +4,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-<!--
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rikes8}/count.svg" /></p> 
 <br>
-</div> -->
+</div> 
 
 <!--
 **Rikes8/Rikes8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
