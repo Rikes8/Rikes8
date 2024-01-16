@@ -11,13 +11,13 @@
 <br>
 </div> 
 
-
+<!--
 <div align="center">
   <a href="https://github.com/Rikes8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikes8&layout=compact&langs_count=7&show_icons=true&theme=github_dark"/>
 </div>
 
-<!--
+
 **Rikes8/Rikes8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
